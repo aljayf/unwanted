@@ -1,0 +1,25 @@
+#menu-item {
+  color: #bbb;
+}
+
+#bag-item {
+  color: #bbb;
+}
+
+.ui.container{
+  padding: 5px 5px 5px 5px;
+}
+
+.ui.center.container {
+  padding-top: 100px;
+  margin: 20px 20px 20px 20px;
+
+}
+.footer {
+  padding-top: 100px;
+  text-align: center;
+}
+
+.payments {
+  margin: 50px 20px 0px 50px;
+}
